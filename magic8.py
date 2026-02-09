@@ -1,5 +1,4 @@
 from random import*
-#magic8
 
 name = input() #"Леха Картоха"
 question = input()#"Ты когда-нибудь видел(а), чтобы снег падал вверх, а не вниз?"
